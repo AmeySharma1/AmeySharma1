@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack Developer | MERN | React Native | 3D Web | UI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Crafting+web+%26+mobile+experiences.;BBuilding+3D+UIs+with+Three.js+%26+Spline.;DeDesigning+clean%2C+responsive+interfaces.💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Crafting+web+%26+mobile+experiences.;BBuilding+3D+UIs+with+Three.js+%26+Spline.;DeDDesigning+clean%2C+responsive+interfaces.💻" />
 </p>
 
 ---
