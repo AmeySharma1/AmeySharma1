@@ -10,7 +10,7 @@
 ### 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,threejs,spline,html,css,js,react,nodejs,express,mongodb,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,threejs,html,css,js,react,nodejs,express,mongodb,git&theme=dark" />
 </p>
 
 ---
