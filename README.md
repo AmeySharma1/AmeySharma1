@@ -17,7 +17,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔗 [**Portfolio Website**](https://github.com/AmeySharma1/Portfolio-website) | Personal portfolio with a sleek, responsive UI to showcase my work. |
+| 🔗 [**AI StoryDost**](https://github.com/AmeySharma1/AI_StoryDost) | Personal portfolio with a sleek, responsive UI to showcase my work. |
 | 📱 [**News App**](https://github.com/AmeySharma1/News_App) | A modern news application built with TypeScript and clean component design. |
 | 📚 [**Books Library Website**](https://github.com/AmeySharma1/Books-Library-Website) | Track your personal reading list. Built with MERN stack. |
 | 🧮 [**Calculator**](https://github.com/AmeySharma1/Calculator) | Simple and elegant calculator UI built in HTML/CSS/JS. |
