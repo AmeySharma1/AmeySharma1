@@ -22,7 +22,7 @@
 | 📚 [**Books Library**](https://github.com/AmeySharma1/Books-Library-Website) | Track your personal reading list. Built with MERN stack. |
 | 🔗 [**AI StoryDost**](https://github.com/AmeySharma1/AI_StoryDost) | Your AI Story friend to keep you engaged with world of stories. |
 | 🌍 [**Landing Page**](https://github.com/AmeySharma1/Landing-page) | A responsive, visually rich landing page designed for conversions. |
-| 🌱 [**Ecofinder**](https://github.com/AmeySharma1/ecofinder_hackathon) | Hackathon project focused on environmental awareness and discovery. |
+| 🌱 [**Ecofinder Event**](https://github.com/AmeySharma1/ecofinder_hackathon) | Hackathon project focused on environmental awareness and discovery. |
 
 ---
 
