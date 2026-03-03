@@ -18,7 +18,7 @@
 | Project | Description |
 |--------|-------------|
 | 📱 [**Portfolio**](https://github.com/AmeySharma1/Portfolio) | Personal portfolio with a sleek, responsive UI to showcase my work |
-| 📱 [**Resume to Interview**](https://github.com/AmeySharma1/Resume-to-interview-Prep) | AI-powered interview preparation system that analyzes resumes against job descriptions, generating interview preperation questions |
+| 📱 [**CV to Interview**](https://github.com/AmeySharma1/Resume-to-interview-Prep) | AI-powered interview preparation system that analyzes resumes against job descriptions, generating interview preperation questions |
 | 📚 [**Books Library Website**](https://github.com/AmeySharma1/Books-Library-Website) | Track your personal reading list. Built with MERN stack. |
 | 🔗 [**AI StoryDost**](https://github.com/AmeySharma1/AI_StoryDost) | Your AI Story friend to keep you engaged with world of stories. |
 | 🌍 [**Landing Page**](https://github.com/AmeySharma1/Landing-page) | A responsive, visually rich landing page designed for conversions. |
