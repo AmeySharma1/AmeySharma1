@@ -22,7 +22,7 @@
 | 📱 [**CV to Interview**](https://github.com/AmeySharma1/Resume-to-interview-Prep) | AI-powered interview preparation system that analyzes resumes against job descriptions, generating interview preperation questions |
 | 📚 [**Books Library**](https://github.com/AmeySharma1/Books-Library-Website) | Track your personal reading list. Built with MERN stack. |
 | 🌍 [**Leetcode**](https://github.com/AmeySharma1/Leetcode) | Problem solving on different Data Strucures and Algorithms. |
-| 🌱 [**Ecofinder Hackathon**](https://github.com/AmeySharma1/ecofinder_hackathon) | Hackathon project focused on environmental awareness and discovery. |
+
 
 ---
 
