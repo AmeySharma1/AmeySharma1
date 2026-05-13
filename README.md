@@ -18,9 +18,9 @@
 | Project | Description |
 |--------|-------------|
 | 📱 [**Portfolio**](https://github.com/AmeySharma1/Portfolio) | Personal portfolio with a sleek, responsive UI to showcase my work |
+| 🔗 [**Interview Guru**](https://github.com/AmeySharma1/Interview-Guru) | AI Mock Interview Practice platform to help you crack your dream job. |
 | 📱 [**CV to Interview**](https://github.com/AmeySharma1/Resume-to-interview-Prep) | AI-powered interview preparation system that analyzes resumes against job descriptions, generating interview preperation questions |
 | 📚 [**Books Library**](https://github.com/AmeySharma1/Books-Library-Website) | Track your personal reading list. Built with MERN stack. |
-| 🔗 [**AI StoryDost**](https://github.com/AmeySharma1/AI_StoryDost) | Your AI Story friend to keep you engaged with world of stories. |
 | 🌍 [**Leetcode**](https://github.com/AmeySharma1/Leetcode) | Problem solving on different Data Strucures and Algorithms. |
 | 🌱 [**Ecofinder Hackathon**](https://github.com/AmeySharma1/ecofinder_hackathon) | Hackathon project focused on environmental awareness and discovery. |
 
